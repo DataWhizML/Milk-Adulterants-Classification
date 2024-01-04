@@ -1,1 +1,1 @@
-# 1.-Milk-Adulterants-Classification
+# Milk-Adulterants-Classification
