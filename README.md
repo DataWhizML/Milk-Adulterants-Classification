@@ -65,6 +65,3 @@ To run the code locally, follow these steps:
 - The use of digital imaging for on-site detection is explored.
 - Machine learning algorithms, including SVM, Random Forest, and Gaussian Naive Bayes, are applied for efficient classification.
 
-## License
-
-This project is licensed under [Sravani] License - see the [LICENSE.md](./LICENSE.md) file for details.
